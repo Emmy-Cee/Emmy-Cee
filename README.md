@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on GIT-Hub
 - 📫 You can reach me through my E-mail(emmyatatcee33@gmail.com)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i love playing virtual games. 
+- ⚡ Fun fact: i love playing virtual games.
+
+- TO-DO
+- I am the observing student on Week 6
 
 <!---
 Emmy-Cee/Emmy-Cee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
